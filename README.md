@@ -6,8 +6,8 @@ My name is Benyamin Bamburac, my Lewis University email address is [benyaminfbam
 
 ## Credit
 
-This code is straight from following [this](https://www.youtube.com/watch?v=AVmGmLFcukM) YouTube video from LearnWebCode.
+This code is straight from following the following [YouTube video](https://www.youtube.com/watch?v=AVmGmLFcukM) from Brad Schiff. He gets full credit for this application.
 
 ## Instructions
 
-To obtain a copy of this project, run the command `git clone https://https://github.com/bambamboo15/web-dice-roller-api.git`, which will make a `web-dice-roller-api` subdirectory in the folder you run this command in. The core files to run this project are `app.js` and `index.html`, and all of the `.json` files. If you load `index.html`, it will conduct one dice roll test.
+To obtain a copy of this project, run the command `git clone https://https://github.com/bambamboo15/animals-app.git`, which will make a `animals-app` subdirectory in the folder you run this command in. The website can then be viewed in `index.html` of the subdirectory. The only required files are `index.html`, `style.css`, and `script.js`.
